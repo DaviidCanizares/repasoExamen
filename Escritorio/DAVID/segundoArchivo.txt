@@ -1,0 +1,1 @@
+este es el segundo archivo que voy a subir para estudiar la practica de git.
